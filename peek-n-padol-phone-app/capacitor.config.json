@@ -1,0 +1,12 @@
+{
+  "appId": "com.peeknpadol.pickleball",
+  "appName": "Peek n’ Padol",
+  "webDir": "www",
+  "backgroundColor": "#0d2a39",
+  "ios": {
+    "contentInset": "always"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
